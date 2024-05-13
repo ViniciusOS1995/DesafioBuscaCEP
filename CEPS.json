@@ -1,0 +1,19 @@
+[
+  {
+    "cep": "72318-552",
+    "logradouro": "QS 404 Conjunto B Comércio",
+    "bairro": "Samambaia Norte (Samambaia)",
+    "localidade": "Brasília",
+    "uf": "DF",
+    "complemento": ""
+  },
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "complemento": "lado ímpar"
+  },
+  {}
+]
